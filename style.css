@@ -2592,7 +2592,7 @@ body.dark-mode .footer-image {
   background-color: #1a1a1a;
 }
 
-=======#topBtn {
+#topBtn {
   display: none;
   position: fixed;
   bottom: 20px;
