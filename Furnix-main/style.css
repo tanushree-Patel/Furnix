@@ -597,6 +597,14 @@ small {
     bottom: 50px;
 }
 
+.product-image .btn:hover {
+    transform: translateX(-50%) scale(1.1);
+}
+
+.product-image .btn:active {
+    transform: translateX(-50%) scale(0.97);
+}
+
 /* FAVORITE ICON STYLING  in product-card-images*/
 .favorite-icon {
     position: absolute;
